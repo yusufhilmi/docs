@@ -25,7 +25,16 @@
     "name": "Dashboard",
     "url": "https://app.polymet.ai"
   },
-  "tabs": [],
+  "tabs": [
+    {
+      "name": "Academy",
+      "url": "academy"
+    },
+    {
+      "name": "Prompting",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [],
   "navigation": [
     {
@@ -41,6 +50,17 @@
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "Academy",
+      "pages": [
+        "academy/markdown",
+        "academy/code",
+        "academy/images",
+        "academy/settings",
+        "academy/navigation",
+        "academy/reusable-snippets"
       ]
     },
     {
