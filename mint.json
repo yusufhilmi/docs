@@ -55,12 +55,7 @@
     {
       "group": "Academy",
       "pages": [
-        "academy/polymet-101",
-        "academy/code",
-        "academy/images",
-        "academy/settings",
-        "academy/navigation",
-        "academy/reusable-snippets"
+        "academy/polymet-101"
       ]
     },
     {
