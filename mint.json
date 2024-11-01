@@ -30,7 +30,7 @@
   "navigation": [
     {
       "group": "Academy",
-      "pages": ["academy/polymet-101"]
+      "pages": ["academy/polymet-101", "academy/projects"]
     }
   ],
   "footerSocials": {
