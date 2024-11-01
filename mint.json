@@ -25,20 +25,13 @@
     "name": "Dashboard",
     "url": "https://app.polymet.ai"
   },
-  "tabs": [
-    {
-      "name": "Academy",
-      "url": "academy"
-    }
-  ],
+  "tabs": [],
   "anchors": [],
   "navigation": [
     {
       "group": "Academy",
-      "pages": [
-        "academy/polymet-101"
-      ]
-    },
+      "pages": ["academy/polymet-101"]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/polymetai",
